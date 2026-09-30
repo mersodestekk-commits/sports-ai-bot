@@ -1,0 +1,1 @@
+# Sports AI Bot\n\nRailway değişkenleri: TELEGRAM_BOT_TOKEN ve OPENAI_API_KEY\n

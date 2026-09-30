@@ -1,0 +1,16 @@
+{
+  "name": "sports-ai-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "grammy": "^1.38.2",
+    "openai": "^5.20.3"
+  }
+}
